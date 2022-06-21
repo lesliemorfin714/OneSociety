@@ -4,7 +4,7 @@ website BLOG
 <img width="1440" alt="Screen Shot 2022-03-31 at 5 32 44 PM" src="https://user-images.githubusercontent.com/79027037/161172031-11af82c1-3271-4f5f-a560-07d7dca01ea8.png">
 
 
-Synopsis
+
 This is a React blog designed to showcase React and other design elements. React was used as the main tool for the job, but there is also a full [FE]/[BE]. Express was used for the [BE] along with mongoose/mongoDB for full [BE] functionality. The [FE] simply uses React and "React-router-dom" to accomplish the goals of this project.
 
 What is this project
